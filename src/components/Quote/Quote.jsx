@@ -23,7 +23,7 @@ export default function Quote() {
     const data = new FormData(form)
 
     try {
-      const res = await fetch('https://formsubmit.co/ajax/request@freetownpress.com', {
+      const res = await fetch('https://formsubmit.co/ajax/request@thefreetownpress.com', {
         method: 'POST',
         body: data,
       })

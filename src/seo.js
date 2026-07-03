@@ -76,7 +76,7 @@ const organisationSchema = {
   name: SITE_NAME,
   url: SITE_ORIGIN,
   logo: `${SITE_ORIGIN}/images/Freetown-Logo-Ico-Text.webp`,
-  email: 'request@freetownpress.com',
+  email: 'request@thefreetownpress.com',
   telephone: '+233244069157',
   address: {
     '@type': 'PostalAddress',

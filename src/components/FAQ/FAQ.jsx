@@ -7,7 +7,7 @@ const faqs = [
   { q: 'Do you offer bulk pricing or corporate discounts?', a: 'Yes, we offer competitive bulk pricing and corporate packages customized to your specific requirements and volumes.' },
   { q: 'Can you handle urgent or rush orders?', a: 'Absolutely. We offer rush processing for urgent projects while maintaining our high quality standards.' },
   { q: 'What areas do you serve?', a: 'We serve organizations across Ghana including Accra, Kumasi, Takoradi, and other major cities — plus clients across West Africa.' },
-  { q: 'How do I request a quote?', a: 'Fill out the Request a Quote form on this website, email us at request@freetownpress.com, or call 0244069157.' },
+  { q: 'How do I request a quote?', a: 'Fill out the Request a Quote form on this website, email us at request@thefreetownpress.com, or call 0244069157.' },
 ]
 
 function FAQItem({ faq, isActive, onClick }) {
